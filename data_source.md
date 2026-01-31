@@ -1,0 +1,3 @@
+Lien vers les données utilisées (IBM) :
+
+https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
